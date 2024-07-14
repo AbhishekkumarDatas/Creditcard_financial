@@ -23,7 +23,7 @@ The primary dataset used for this  PowerBI Dashboard is the "credit_car.csv"  an
 ## Weekly Observation
 -Revenue increased by 28.8%
 
-##Yearly Observation
+## Yearly Observation
 -Overall revenue is 57 M
 -Total interest is 8M
 -Total transaction amount is 46 M
