@@ -18,9 +18,9 @@ The primary dataset used for this  PowerBI Dashboard is the "credit_car.csv"  an
 4. Creating columns using DAX function.
 5. visualizing data using diffent charts.
 
-###Project Insights - Week 53
+### Project Insights - Week 53
 
-##Weekly Observation
+## Weekly Observation
 -Revenue increased by 28.8%
 
 ##Yearly Observation
