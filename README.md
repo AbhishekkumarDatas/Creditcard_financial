@@ -18,21 +18,25 @@ The primary dataset used for this  PowerBI Dashboard is the "credit_car.csv"  an
 4. Creating columns using DAX function.
 5. visualizing data using diffent charts.
 
-### Exploratory Data Analysis
+###Project Insights - Week 53
 
-EDA involved exploring the sales data to answer key questions, such as:
-- Is there any relation between Horsepower and Price?
-- which products are top sellers?
-- Which drive wheel have highest and lowest price?
-- Check all the negative and positive correlation affecting price?
-- Which price range have max vehicle?
-- Which company have highest and lowest count of Vehicle?
+##Weekly Observation
+-Revenue increased by 28.8%
+
+##Yearly Observation
+-Overall revenue is 57 M
+-Total interest is 8M
+-Total transaction amount is 46 M
+-Male customers are contributing more in revenue 31M, female 26M.
+-Blue & Silver credit card are contributing to 96% of overall transactions.
+-TX, NY & CA is contributing to 68%
+
 
 ### Results/Findings
   The analysis results are summarized as follows:
-  1. There is a positive correlation (0.82) b/w Price and horsepower.If H.P. is high price will be High.
-  2. We have 40-50 count of vehicle type  for price 5000 -10000 range which is the max.
-  3. Sedan,hardop and convertible have highest price, hatchback has lowest price
-  4. Toyota has maximum numbers of vehicles , Mercury make is at the bottom
-  5. Negative correlation shows lower the curb weight better  will be the fuel Economy.
-  6. This Data is Beneficial for customers to make choice which vehicle they should go with. Also, it can be used by other company that how other company are working.
+  1. As Male customer are contributing more we must to do something for female so they use it more like discounts on daily care products.
+  2. Blue ans Silver contributing 96%. Focus marketing efforts on these two cards. Create special promotions, rewards, or cashback offers to further drive their usage.
+  3. Targeted Marketing: Intensify marketing efforts in these states. Customize campaigns to resonate with local demographics and preferences.
+  4. Localized Promotions: Introduce state-specific promotions, events, or partnerships that appeal to customers in TX, NY, and CA.
+  5. Diversify Geographically: Identify states or regions with lower transaction contributions and develop strategies to increase market presence there.
+ 
