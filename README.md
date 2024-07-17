@@ -35,7 +35,7 @@ The primary dataset used for this  PowerBI Dashboard is the "credit_car.csv"  an
 ### Results/Findings
   The analysis results are summarized as follows:
   1. As Male customer are contributing more we must to do something for female so they use it more like discounts on daily care products.
-  2. Blue ans Silver contributing 96%. Focus marketing efforts on these two cards. Create special promotions, rewards, or cashback offers to further drive their usage.
+  2. Blue and Silver contributing 96%. Focus marketing efforts on these two cards. Create special promotions, rewards, or cashback offers to further drive their usage.
   3. Targeted Marketing: Intensify marketing efforts in these states. Customize campaigns to resonate with local demographics and preferences.
   4. Localized Promotions: Introduce state-specific promotions, events, or partnerships that appeal to customers in TX, NY, and CA.
   5. Diversify Geographically: Identify states or regions with lower transaction contributions and develop strategies to increase market presence there.
