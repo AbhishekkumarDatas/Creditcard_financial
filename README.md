@@ -8,7 +8,7 @@ The primary dataset used for this  PowerBI Dashboard is the "credit_car.csv"  an
 
 ### Tools
 - Excel
-- Python - Jupyter notebook
+- PowerBI
 - SQL database
 
  ### Data Cleaning/Preparation
